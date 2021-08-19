@@ -1,0 +1,32 @@
+.hlogin {
+    text-align: center;
+  }
+  
+  .formlogin {
+    width: 350px;
+    background: white;
+    margin: auto;
+  }
+  
+  label {
+    font-size: 11pt;
+  }
+  
+  .inputlogin {
+    box-sizing: border-box;
+    width: 100%;
+    padding: 10px;
+    font-size: 11pt;
+    margin-bottom: 20px;
+  }
+  
+  .tombol_login {
+    background: #46de4b;
+    color: white;
+    font-size: 11pt;
+    width: 100%;
+    border: none;
+    border-radius: 3px;
+    padding: 10px 20px;
+  }
+  
